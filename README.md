@@ -9,4 +9,4 @@ The following image and movie shows the web application:
 ![Video shows input of employees to an employee payroll tracker.](./Assets/employee-payroll-tracker-example.gif)
 
 ## Link to Deployed Version
-[Click here to see the deployed version](https://jengelfling.github.io/employee-payroll-tracker/)
+[Click here to see the deployed version](https://jengelfling.github.io/employee-pay-tracker/)
